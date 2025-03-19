@@ -5,7 +5,7 @@ Welcome to my personal portfolio website repository! This project showcases my w
 ## Live Demo
 
 You can view the live version of the portfolio here:  
-[https://personal-portfolio-3rdh.vercel.app/](https://personal-portfolio-3rdh.vercel.app/)
+[https://personal-portfolio-3rdh.vercel.app/](https://portfolio-manu-shukla-28.vercel.app/)
 
 ## GitHub Repository
 
